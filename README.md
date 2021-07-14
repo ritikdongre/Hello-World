@@ -1,2 +1,1 @@
-# Hello-World
-This is my first Repository
+A web page made out of HTML and CSS only.
